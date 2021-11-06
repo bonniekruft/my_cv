@@ -5,11 +5,11 @@
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ### Experience
+<br/>  
+2020 Nov - PRESENT  
 
-2020 Nov - PRESENT 
-
-AstraZeneca. Cambridge, UK  
-*Head of R&D Data, Analytics & AI*					     
+**AstraZeneca**      
+**Head of R&D Data, Analytics & AI** - Cambridge, UK					     
 				         	                    
 Leading a global team of highly experienced, skilled data and AI engineers and professionals (100+) delivering cutting-edge capabilities, products and platforms that enable scientists to discover and develop medicines that are safe and effective for patients.  
 
@@ -21,14 +21,15 @@ Leading a global team of highly experienced, skilled data and AI engineers and p
 * AI Engineering - experts in AI & ML using the latest and greatest methods in AI.
   * Knowledge Graph - Set of graph machine learning models and recommendation models to support R&D pipeline decisions. Has exponentially reduced the time it takes to go from screen to shortlist to inform target decisions
   * Imaging Platform & Deep Learning - Providing enriched analytics ready image data and developing state-of-the-art libraries & pipelines for scaling image segmentation & classification for R&D.     
+<br/>  
 
 2016 Jan - 2020 Oct
 
-GlaxoSmithKline (GSK), Pharmaceutical Research & Development  
-*Director, Data Science*. London, UK 					            	              
-*Director, AIML*. London, UK  	               		                                                       	                                  
-*Director, Data Science Strategy*. Philadelphia, PA, USA                             	                               
-*Manager, Data Science Enablement*. Philadelphia, PA, USA  
+**GlaxoSmithKline (GSK), Pharmaceutical Research & Development**  
+**Director, Data Science**. London, UK. 2019 Sept - 2020 Oct					            	              
+**Director, AIML**. London, UK. 2019 May - 2019 Sept  	               		                                                       	                                  
+**Director, Data Science Strategy**. Philadelphia, PA, USA. 2018 May - 2019 May                             	                               
+**Manager, Data Science Enablement**. Philadelphia, PA, USA.  2016 Jan - 2018 May    
 
 *Key Achievements:*  
 
@@ -49,38 +50,42 @@ Technical Leadership
   *	Reduced time for data preparation and association testing by 90%. 
   *	Enabled scientists to identify & validate drug targets earlier in the drug discovery process.  
   * Led to $300 M investment decision and 4-year collaboration with 23andMe.  
- 
-2006 Jan - 2016 Jan    
-PRN Pharmaceutical Research Network & Pharmafarm                		      
-Data Analyst. Charleston, SC & New York, NY, USA.                                                                  	   
-  * Lead statistical data analyst supporting clinical trials research. 
-  * Played a key role in launching a sister-company from a clinical-ophthalmology CRO focused on pharmacology-planning and investment for biotech start-ups.
-  * Deployed an interactive dashboard using public datasets to deliver insights on the factors that influence the successful development of new ophthalmic pharmaceutical products through data science and analytics allowing senior executives in the company to make quick decisions and take action.
+  
+    
+<br/>  
 
-### Computing Skills
+2006 Jan - 2016 Jan      
+**PRN Pharmaceutical Research Network & Pharmafarm**                		      
+**Data Analyst**. Charleston, SC & New York, NY, USA.                                                                  	   
+  * Lead statistical data analyst supporting clinical trials research.  
+  * Played a key role in launching a sister-company from a clinical-ophthalmology CRO focused on pharmacology-planning and investment for biotech start-ups.  
+  * Deployed an interactive dashboard using public datasets to deliver insights on the factors that influence the successful development of new ophthalmic pharmaceutical products through data science and analytics allowing senior executives in the company to make quick decisions and take action.  
+
+<br/>  
+
+### Computing Skills  
 *	Programming: Python, R, SQL.
 *	ML: Pytorch, Tensorflow, Keras.
 *	Data Analysis: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn.
 *	Software engineering methodologies: CI/CD, Unit testing, Agile, Git, Docker.
 *	Big data technologies: Spark, Hadoop, HDFS, Hive/Impala, AWS 
 
+<br/>  
 
-### Education   
-2010 Sept - 2015 Sept  PHD, Physical Chemistry          		
-City University of New York, Graduate Center. New York, NY.
-Dissertation: Density Functional Theory for the Investigation of Transition Metal Complexes: Structure, Binding, and Spectroscopy of Metal-Siderophores and the Catalase-Peroxidase Enzyme
+### Education       
+2010 Sept - 2015 Sept  
+**PHD, Physical Chemistry**                   		
+City University of New York, Graduate Center. New York, NY.      
+Dissertation: Density Functional Theory for the Investigation of Transition Metal Complexes: Structure, Binding, and Spectroscopy of Metal-Siderophores and the Catalase-Peroxidase Enzyme  
 
-2003 Aug - 2007 May BS cum laude, Chemistry & Biochemistry                                      	       	
-The College of Charleston. Charleston, SC.  
-
-Additional Coursework and Training: 
-Fast.ai; Cloudera Data Science at Scale using Spark and Hadoop; Cloudera Data Analyst Training: Using Pig, Hive, and Impala with Hadoop; MIT Professional Education, Data Science: Data to Insight; First Line Leader training 
-
-Awards:
-AstraZeneca CEO Award in Digital Technology & Data for ‘Augmented Drug Design Accelerated by Leveraging Data & AI’ (2021); Cloudera Impact Awards - Rookie of the Year (Team, 2017); Rose Kfar Rose Dissertation Award (2015); Robert Ginell Memorial Reward (2013); Estelle and James T Ramey Scholarship (2012); CUNY Science Scholarship (2010); John Franklin Harrison Memorial Scholarship (2003). 
+2003 Aug - 2007 May  
+**BS *cum laude*, Chemistry & Biochemistry**                                        	       	
+The College of Charleston. Charleston, SC.      
 
 
-### Publications
+<br/>  
+
+### Publications    
 1. 	Kruft, B. I.; Magliozzo, R. S.; Jarzęcki, A. A. Density Functional Theory Insights into the Role of the Methionine-Tyrosine-Tryptophan Adduct Radical in the KatG Catalase Reaction: O2 Release from the Oxyheme Intermediate. J. Phys. Chem. A. 2015, 119, 6850-6866.
 2. 	Sharpe, R. A.; Austin, J. P.; Kruft, B.; Nelson, L. A.; Stewart, J. A.; Stewart, W. A. Description of Ophthalmic Pharmaceutical and Device Start-Up Companies. Ophthalmic Res. 2015, 54, 6-9.
 3. 	Kruft, B. I.; Harrington, J. M.; Duckworth, O. W.; Jarzęcki, A. A. Quantum Mechanical Investigation of Aqueous Desferrioxamine B Metal Complexes: Trends in Structure, Binding, and Infrared Spectroscopy. J. Inorg. Biochem. 2013, 129, 150–161.
