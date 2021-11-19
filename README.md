@@ -9,7 +9,7 @@ ________________________________________________________________________________
 2020 Nov - PRESENT  
 
 **AstraZeneca**      
-**Head of R&D Data, Analytics & AI** - Cambridge, UK					     
+**Head of Research Data & Analytics** - Cambridge, UK					     
 				         	                    
 Leading a global team of highly experienced, skilled data and AI engineers and professionals (100+) delivering cutting-edge capabilities, products and platforms that enable scientists to discover and develop medicines that are safe and effective for patients.  
 
@@ -17,7 +17,7 @@ Leading a global team of highly experienced, skilled data and AI engineers and p
 
 *	Mentorship, coaching and leadership of data scientists, data engineers, AI engineers and data leaders. Managing through change. 
 *	D&A Platforms – domain specific data and devops engineering teams focused on maximizing the value from omics, molecular and imaging data.
-*	Drug Discovery data & AI cloud platform with the potential to reduce typical drug discovery cycle time by 12 months. Used in all small molecule drug discovery projects. 
+*	Augmented Drug Design - Drug Discovery data & AI cloud platform with the potential to reduce typical drug discovery cycle time by 12 months. Used in all small molecule drug discovery projects. 
 * AI Engineering - experts in AI & ML using the latest and greatest methods in AI.
   * Knowledge Graph - Set of graph machine learning models and recommendation models to support R&D pipeline decisions. Has exponentially reduced the time it takes to go from screen to shortlist to inform target decisions
   * Imaging Platform & Deep Learning - Providing enriched analytics ready image data and developing state-of-the-art libraries & pipelines for scaling image segmentation & classification for R&D.     
