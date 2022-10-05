@@ -8,8 +8,8 @@ ________________________________________________________________________________
 
 2022 July - PRESENT
 
-**Microsoft Research**
-**Senior Director, AI4Science**
+**Microsoft Research**      
+**Senior Director, AI4Science** - Cambridge, UK		
 
 2020 Nov - 2022 July  
 
