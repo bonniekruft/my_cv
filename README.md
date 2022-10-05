@@ -5,8 +5,13 @@
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ### Experience
-  
-2020 Nov - PRESENT  
+
+2022 July - PRESENT
+
+**Microsoft Research**
+**Senior Director, AI4Science**
+
+2020 Nov - 2022 July  
 
 **AstraZeneca**      
 **Head of Research Data & Analytics** - Cambridge, UK					     
