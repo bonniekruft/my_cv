@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 2022 July - PRESENT
 
-**Microsoft Research**
+**Microsoft Research**  
 **Partner, Deputy Director & Head Research, Engineering, Program Managment**. Cambridge, UK. 2023 March - Present
 **Senior Director, AI4Science**. Cambridge, UK. 2022 July - 2023 March		
 
