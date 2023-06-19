@@ -8,8 +8,11 @@ ________________________________________________________________________________
 
 2022 July - PRESENT
 
-**Microsoft Research**      
-**Senior Director, AI4Science** - Cambridge, UK		
+**Microsoft Research**
+**Partner, Deputy Director & Head Research, Engineering, Program Managment**. Cambridge, UK. 2023 March - Present
+**Senior Director, AI4Science**. Cambridge, UK. 2022 July - 2023 March		
+
+Leading a global team of machine learning researchers, engineers, domain experts and program managers working to advance an exciting new research frontier at the intersection of machine learning and the natural sciences. Our goal is to drive major research advances in the use of machine learning for scientific discovery, and to facilitate transformational real-world impact on some of the most pressing problems facing society including climate change, green energy, sustainable materials, and the discovery of new medicines.
 
 2020 Nov - 2022 July  
 
